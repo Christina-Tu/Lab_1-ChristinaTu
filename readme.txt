@@ -1,11 +1,3 @@
-
-Each function defined with
-Input type(s) (if any)
-Output type
-Algorithm description
-Listing of files required and what type they are (.h header, .c c code, etc..)
-
-
 Christina Tu
 This program is a user menu that allows the user to select items in which they interact with and providing outputs.
 The user selects 1-7
